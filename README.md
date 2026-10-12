@@ -1,20 +1,16 @@
-# Rho Theta Phi (ΡΘΦ)
+# Sigma Eta Pi at UC Davis
 
-One-page website and brand marks for Rho Theta Phi, a co-ed professional engineering fraternity at UC Davis, est. 2026.
-
-*Every member has a place.*
+One-page website for the founding class of Sigma Eta Pi at UC Davis. Sigma Eta Pi is a co-ed professional entrepreneurship fraternity: https://www.sigmaetapi.org/
 
 ## Files
 
 - `index.html`: the website. It's a single page with no build step.
-- `assets/`: images used by the site
-- `brand/`: the primary logo, one-color versions, icon and crest, as SVG and PNG
+- `assets/`: the logo and browser icons
 
 ## Editing
 
-Placeholders are in [square brackets] in `index.html`. Search for `[` to find them all: the recruitment schedule, officer cards, contact email and Instagram handle.
+Placeholders are in [square brackets] in `index.html`. Search for `[` to find them all: the Why Davis paragraph, the What We Do descriptions, the recruitment schedule, founding member cards, contact email and Instagram handle.
 
-## Publishing with GitHub Pages
+## Publishing
 
-In the repository, go to Settings → Pages. Under "Build and deployment", set Source to "Deploy from a branch", choose the `main` branch and the `/ (root)` folder, and save. The site will be at
-https://rhothetaphidavis.github.io/rho-theta-phi-davis/
+GitHub Pages serves this repository from the `main` branch, `/ (root)` folder. Changes go live a minute or two after each push.
